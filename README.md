@@ -16,7 +16,7 @@ https://colab.research.google.com/drive/1eqsEnU-bbavnn9AW-SjLeJOv81ONaUsi?usp=sh
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 1. Clona los repositorios:
    ```bash
